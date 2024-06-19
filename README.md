@@ -47,7 +47,7 @@ sudo service docker start
 Adicione o usuário ec2-user ao grupo docker para executar comandos Docker sem sudo:
 sh
 Copiar código
-sudo usermod -aG docker ec2-user
+sudo usermod -aG docker $USER
 Verifique a instalação do Docker:
 sh
 Copiar código
