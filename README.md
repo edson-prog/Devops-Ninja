@@ -11,7 +11,7 @@ Passo 1: Lançar Instâncias EC2
 Acesse o AWS Management Console e navegue para o serviço EC2.
 Clique em "Launch Instance".
 Selecione a Amazon Machine Image (AMI):
-Escolha Amazon Linux 2 AMI (HVM), SSD Volume Type.
+Escolha Ubuntu (HVM), SSD Volume Type.
 Escolha o tipo de instância:
 Selecione t3.large.
 Configure as instâncias:
