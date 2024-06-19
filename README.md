@@ -83,7 +83,7 @@ Este repositório descreve os passos necessários para configurar um ambiente co
 1. Acesse o AWS Management Console e navegue para o serviço EC2.
 2. Clique em "Launch Instance".
 3. Selecione a Amazon Machine Image (AMI):
-    - Escolha `Amazon Linux 2 AMI (HVM), SSD Volume Type`.
+    - Escolha `Linux Ubuntu, SSD Volume Type`.
 4. Escolha o tipo de instância:
     - Selecione `t3.large`.
 5. Configure as instâncias:
